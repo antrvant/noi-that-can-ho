@@ -1,6 +1,5 @@
 {
     "title": "Newsletter subscribe",
     "blurb": "Thiết Kế Nội Thất Chung Cư Đẹp"
-    
+    "Url": "https://hayconcept.com/"
 }
-<h3><a href="{{ "https://hayconcept.com/" | relURL }}">Go Home</a></h3>
