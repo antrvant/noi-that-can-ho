@@ -1,5 +1,5 @@
 ---
-title: "Thiết kế nội thất tuyệt vời với lương tâm"
+title: "Thiết kế nội thất tuyệt vời với chất lượng đỉnh cao"
 subtitle: Hỗ trợ cuộc sống bền vững trong khi trang trí không gian sống của bạn
 image: /img/home-jumbotron.jpg
 blurb:
