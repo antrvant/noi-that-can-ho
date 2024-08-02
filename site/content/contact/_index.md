@@ -2,18 +2,14 @@
 title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Địa Chỉ
+    text: "Phòng 2, Tầng 3, Lô TS2-03.02. Cao ốc The Tresor Residence. Số 39-39B Bến Vân Đồn, Phường 13, Quận 4, TP.HCM"
+  - heading: Giờ Làm Việc
+    text: "Thứ 2 – Chủ Nhật: Bất kể thời gian nào bạn liên hệ"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Chúng tôi rất mong được kết nối với bạn và lắng nghe ý tưởng cũng như câu hỏi của bạn. Chúng tôi luôn nỗ lực để phát triển và cải thiện không ngừng và ý kiến phản hồi của bạn là rất quý giá đối với chúng tôi.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">Làm thế nào để nhận được…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+Bạn cũng có thể sử dụng biểu mẫu dưới đây cho bất kỳ thắc mắc nào về tình trạng sản phẩm nội thất, các gói đăng ký hàng tháng và đặt lịch hẹn 1-1 với các chuyên gia của chúng tôi. Đừng ngại ngần, hãy gửi tin nhắn cho chúng tôi!
