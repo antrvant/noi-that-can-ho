@@ -1,5 +1,5 @@
 ---
-title: Hướng dẫn cho người mới bắt đầu về xưởng nội thất
+title: Hướng dẫn cho người mới bắt đầu về xưởng nội thất.
 date: 2017-01-04T15:04:10.000Z
 description: Xưởng nội thất có thể trông như một nơi phức tạp, tốn nhiều thời gian, nhưng khi bạn quen với quy trình, nó trở thành một thói quen thư giãn đáng giá mỗi khi hoàn thành sản phẩm.
 image: blog-chemex.jpg
