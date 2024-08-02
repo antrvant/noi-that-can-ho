@@ -1,29 +1,27 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Hiểu về Bánh Xe Màu Sắc Mới của Thiết Kế Nội Thất
 date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
+description: Bánh xe màu sắc mới của thiết kế nội thất, tài nguyên chính thức được các nhà thiết kế sử dụng, đã được cập nhật lần đầu tiên trong năm nay.
 image: blog-flavor_wheel.jpg
 ---
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Hiệp hội Thiết kế Nội thất (IDA) đã cập nhật bánh xe màu sắc để phản ánh những sắc thái tinh tế hơn cần thiết để mô tả màu sắc và phong cách chính xác hơn. Các mô tả mới chi tiết hơn và do đó cho phép các nhà thiết kế phân biệt giữa nhiều màu sắc và phong cách hơn.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Mặc dù đây sẽ là một thay đổi lớn đối với các nhà thiết kế nội thất chuyên nghiệp, nhưng nó cũng có ý nghĩa quan trọng đối với bạn như một người tiêu dùng. Chúng tôi sẽ giải thích cách bánh xe ra đời, cách các chuyên gia sử dụng nó và ý nghĩa thực sự của các màu sắc.
 
-## What the updates mean to you
+## Các cập nhật có ý nghĩa gì với bạn
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Hiệp hội Thiết kế Nội thất (IDA), thành lập năm 1982, là một tổ chức thương mại phi lợi nhuận dành cho ngành công nghiệp thiết kế nội thất. Với các thành viên có mặt ở hơn 40 quốc gia, IDA đại diện cho mọi phân khúc của ngành công nghiệp thiết kế nội thất, bao gồm:
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+- Nhà sản xuất
+- Nhà cung cấp
+- Nhà bán lẻ
+- Nhà thiết kế
+- Nhà thầu
+- Khách hàng
+Trong hơn 30 năm qua, IDA đã dành tâm huyết tạo ra một cộng đồng thiết kế nội thất sôi động bằng cách công nhận, phát triển và quảng bá thiết kế nội thất. IDA đặt ra và duy trì các tiêu chuẩn chất lượng cho ngành, tiến hành nghiên cứu thị trường, cung cấp giáo dục, đào tạo, tài nguyên và dịch vụ kinh doanh cho các thành viên của mình.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Việc kiểm tra màu sắc và phong cách, hoặc phân tích thiết kế, là thực hành quan sát các màu sắc và phong cách của không gian nội thất. Đây là một thực hành chuyên nghiệp nhưng có thể được thực hiện không chính thức bởi bất kỳ ai hoặc bởi các chuyên gia được biết đến như "Q Designers". Một quy trình kiểm tra màu sắc tiêu chuẩn bao gồm việc xem xét kỹ lưỡng các màu sắc, sau đó so sánh với bánh xe màu sắc để xác định màu sắc chủ đạo và phụ trợ.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Nhà thiết kế nội thất cố gắng đo lường các khía cạnh của không gian nội thất, cụ thể là kết cấu (cảm giác bề mặt), sự hài hòa màu sắc, ánh sáng (cảm giác sáng tối), phong cách (nhân vật trong không gian) và cảm giác sau khi thiết kế. Vì các vật liệu và màu sắc thể hiện rõ ràng những phong cách đặc trưng từ khu vực mà chúng được sản xuất, các nhà thiết kế có thể cố gắng xác định nguồn gốc của các yếu tố trong thiết kế.
 Tìm hiểu nhiều hơn thì bạn hãy vào [Top Tiêu Chí Thiết Kế Nội Thất Chung Cư Đẹp: Tối Ưu Hóa Không Gian Sống](https://hayconcept.com/top-tieu-chi-thiet-ke-noi-that-chung-cu-dep-toi-uu-hoa-khong-gian-song/)
