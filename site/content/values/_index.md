@@ -1,45 +1,25 @@
 ---
-title: "Values"
+title: "Giá Trị"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Thiết kế nội thất bền vững"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Thiết kế nội thất bền vững không chỉ tạo ra những không gian đẹp mắt mà còn bảo vệ môi trường và thúc đẩy sự phát triển của cộng đồng. Chúng tôi sử dụng các vật liệu tái chế và thân thiện với môi trường, đảm bảo rằng mỗi dự án không chỉ thẩm mỹ mà còn bền vững lâu dài.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Vật liệu nguồn gốc rõ ràng"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Chúng tôi cam kết sử dụng các vật liệu có nguồn gốc rõ ràng, từ các nhà cung cấp đáng tin cậy. Điều này không chỉ đảm bảo chất lượng cao mà còn hỗ trợ các nhà sản xuất và nghệ nhân địa phương, góp phần vào sự phát triển bền vững của cộng đồng.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Tôn trọng văn hóa và cộng đồng"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Mỗi dự án thiết kế của chúng tôi đều được thực hiện với sự tôn trọng sâu sắc đối với văn hóa và cộng đồng địa phương. Chúng tôi hợp tác chặt chẽ với khách hàng và các chuyên gia địa phương để tạo ra những không gian phản ánh đúng bản sắc và giá trị văn hóa.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Nguồn cung ứng trực tiếp"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Chúng tôi trực tiếp làm việc với các nhà cung cấp vật liệu để đảm bảo chất lượng và nguồn gốc bền vững. Điều này không chỉ giúp giảm chi phí trung gian mà còn đảm bảo rằng lợi nhuận được phân bổ công bằng cho những người trực tiếp sản xuất.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "Tái đầu tư lợi nhuận"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Chúng tôi cam kết tái đầu tư 20% lợi nhuận của mình vào các dự án cộng đồng và phát triển bền vững. Những khoản đầu tư này giúp cải thiện chất lượng cuộc sống của các cộng đồng địa phương và thúc đẩy sự phát triển của ngành thiết kế nội thất bền vững. Bạn có thể theo dõi sự phát triển này và tìm hiểu thêm về các dự án của chúng tôi trên blog của chúng tôi.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
